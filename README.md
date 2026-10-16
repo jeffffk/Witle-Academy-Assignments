@@ -9,3 +9,4 @@
 'inline code' 
 
 ![Alt text](image-link.jpg)
+> Click the image above to see a preview of the final dashboard
